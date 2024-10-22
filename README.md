@@ -138,7 +138,7 @@ func main() {
 
 For this program, I have implemented a simple time counter using Go built in time package.
 
-I have also added the Python/Scrapy example solution (Python code can be found [here](WebFocusedCrawlWorkV001\run-articles-spider.py)), and timed the processes for both the Python and the Go codes. Following are the results:
+I have also added the Python/Scrapy example solution (Python code can be found [here](WebFocusedCrawlWorkV001/run-articles-spider.py)), and timed the processes for both the Python and the Go codes. Following are the results:
 
 | Code Language  | Code efficiency (seconds) |
 |----------------|---------------------------|
